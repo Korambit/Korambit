@@ -14,7 +14,7 @@ Everything is designed to be minimal, intentional, and sharply organized.
 
 ## 🧩 Project Structure
 
-- **Roblox tooling** —  
+- **Roblox tooling** 
 Executor, UI frameworks, and experimental systems related to Roblox development. These projects are structured, versioned, and kept isolated from OS-level tooling.
 
 Windows Tooling
