@@ -1,89 +1,44 @@
-```
-██╗  ██╗ ██████╗ ██████╗  █████╗ ███╗   ███╗██████╗ ██╗████████╗
-██║ ██╔╝██╔═══██╗██╔══██╗██╔══██╗████╗ ████║██╔══██╗██║╚══██╔══╝
-█████╔╝ ██║   ██║██████╔╝███████║██╔████╔██║██████╔╝██║   ██║   
-██╔═██╗ ██║   ██║██╔══██╗██╔══██║██║╚██╔╝██║██╔══██╗██║   ██║   
-██║  ██╗╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██████╔╝██║   ██║   
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝ ╚═╝   ╚═╝   
-```
+🖥️ About
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" />
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell" />
-</p>
-
----
-
-### 🖥️ About
-
-I build **low-level tooling and UI systems** with a focus on **Windows internals**, performance, and clean aesthetics.
+I build low-level tooling and UI systems with a focus on Windows internals, performance, and clean aesthetics.
 
 Projects range from:
 
-* structured Roblox tooling
-* custom UI / visual frameworks
-* Windows quality-of-life utilities
+structured Roblox tooling
 
-Everything is designed to be **minimal**, **intentional**, and **sharply organized**.
+custom UI / visual frameworks
 
----
+Windows quality-of-life utilities
 
-### 🧩 Project Structure
+Everything is designed to be minimal, intentional, and sharply organized.
 
-```text
-repos/
-├─ roblox/
-│  ├─ executor
-│  ├─ ui-frameworks
-│  └─ experiments
-│
-├─ windows/
-│  ├─ qol-tools
-│  ├─ visual-customization
-│  └─ automation
-│
-└─ archived/
-   └─ legacy / proof-of-concept
-```
+🧩 Project Structure
 
----
+Roblox Tooling
+Executor, UI frameworks, and experimental systems related to Roblox development. These projects are structured, versioned, and kept isolated from OS-level tooling.
 
-### ⚙️ Focus Areas
+Windows Tooling
+Quality-of-life utilities, automation scripts, and visual customization tools focused on improving workflow and aesthetics at the OS level.
 
-* Low-level Windows internals
-* UI systems & aesthetic tooling
-* Lua & C++ interoperability
-* Clean repo architecture
-* Performance-first design
+Archived / Experimental
+Proof-of-concepts, deprecated experiments, and legacy ideas kept for reference but no longer actively maintained.
 
----
+⚙️ Focus Areas
 
-### 📌 Notes
+Low-level Windows internals
 
-* Some repositories are **private**, experimental, or archived
-* Public releases are **intentional**, not exhaustive
-* Feedback-driven releases when projects reach a polished state
+UI systems & aesthetic tooling
 
----
+Lua & C++ interoperability
 
-<p align="center">
-  <sub>sharp systems · clean aesthetics</sub>
-</p>
+Clean repo architecture
 
+Performance-first design
 
-<!--
-**Korambit/Korambit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 Notes
 
-Here are some ideas to get you started:
+Some repositories are private, experimental, or archived
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Public releases are intentional, not exhaustive
+
+Feedback-driven releases when projects reach a polished state
